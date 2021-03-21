@@ -3,7 +3,7 @@ title: "Introduction"
 weight: 10
 chapter: true
 draft: false
-pre: '<i class="fa fa-film" aria-hidden="true"></i> '
+#pre: '<i class="fa fa-film" aria-hidden="true"></i> '
 tags:
   - beginner
   - kubeflow
@@ -14,8 +14,6 @@ tags:
 ---
 
 # Introduction to Kubernetes
-
-{{< youtube -zmUxsrYw2I >}}
 
 A walkthrough of basic Kubernetes concepts.
 
