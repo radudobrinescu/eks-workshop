@@ -1,5 +1,5 @@
 ---
-title: "Amazon EKS Workshop"
+title: "Amazon EKS Workshop - DXC Edition"
 chapter: true
 weight: 1
 ---
