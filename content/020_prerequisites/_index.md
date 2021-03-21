@@ -16,8 +16,8 @@ tags:
 
 # Getting Started
 
-To start the workshop, follow one of the following since you are...
+To start the workshop, first get access to the account that has been provisioned for you for this AWS event:
 
-* ...[attending an AWS hosted event (using AWS provided hashes)](aws_event/)
+[**Access the AWS account**](/020_prerequities/portal/)
 
 Once you have completed with either setup, continue with [**Create a Workspace**](/020_prerequisites/workspace/)
