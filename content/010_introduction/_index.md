@@ -29,6 +29,3 @@ Background in EKS, Kubernetes, Docker, and container workflows are not required,
 
 This chapter will introduce you to the basic workings of Kubernetes, laying the foundation for the hands-on portion of the workshop.
 
-Specifically, we will walk you through the following topics:
-
-{{% children showhidden="false" %}}
