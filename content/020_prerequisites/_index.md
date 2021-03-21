@@ -18,6 +18,6 @@ tags:
 
 To start the workshop, first get access to the account that has been provisioned for you for this AWS event:
 
-[**Access the AWS account**](/020_prerequities/portal/)
+[**Access the AWS account**](/020_prerequisites/portal/)
 
 Once you have completed with either setup, continue with [**Create a Workspace**](/020_prerequisites/workspace/)

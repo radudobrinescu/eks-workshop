@@ -2,15 +2,13 @@
 title: "Autoscaling our Applications and Clusters"
 chapter: true
 weight: 80
-pre: '<i class="fa fa-film" aria-hidden="true"></i> '
+#pre: '<i class="fa fa-film" aria-hidden="true"></i> '
 tags:
   - beginner
   - CON205
 ---
 
 # Implement AutoScaling with HPA and CA
-
-{{< youtube emjxGvGhWm0 >}}
 
 In this Chapter, we will show patterns for scaling your worker nodes and applications deployments automatically.
 

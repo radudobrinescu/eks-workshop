@@ -2,7 +2,7 @@
 title: "Helm"
 chapter: true
 weight: 60
-pre: '<i class="fa fa-film" aria-hidden="true"></i> '
+#pre: '<i class="fa fa-film" aria-hidden="true"></i> '
 tags:
   - beginner
   - CON203
@@ -11,8 +11,6 @@ tags:
 ---
 
 # Helm
-
-{{< youtube XIVCS2j_JxU >}}
 
 {{% notice info %}}
 This tutorial has been updated for Helm v3. In version 3, the Tiller component
