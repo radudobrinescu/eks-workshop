@@ -1,5 +1,5 @@
 ---
-title: "Introduction"
+title: "Introduction (Optional)"
 weight: 10
 chapter: true
 draft: false
