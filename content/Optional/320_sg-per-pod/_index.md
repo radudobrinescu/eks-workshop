@@ -1,7 +1,7 @@
 ---
 title: "Security groups for pods"
 date: 2020-11-26T13:01:55-05:00
-weight: 115
+weight: 320
 #pre: '<i class="fa fa-film" aria-hidden="true"></i> '
 draft: false
 chapter: false

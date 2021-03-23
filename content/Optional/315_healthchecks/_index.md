@@ -1,7 +1,7 @@
 ---
 title: "Health Checks"
 chapter: true
-weight: 70
+weight: 315
 #pre: '<i class="fa fa-film" aria-hidden="true"></i> '
 tags:
   - beginner

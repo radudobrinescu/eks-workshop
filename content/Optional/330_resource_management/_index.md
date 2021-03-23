@@ -1,7 +1,7 @@
 ---
 title: "Resource Management"
 chapter: true
-weight: 201
+weight: 330
 #pre: '<i class="fa fa-film" aria-hidden="true"></i> '
 tags:
   - intermediate
