@@ -10,20 +10,20 @@ tags:
 
 Execute these labs depending on time availability
 
-[**Introduction**](/Optional/310_introduction/)
+[**Introduction**](/optional/310_introduction/)
 
-[**Healthchecks**](/Optional/315_healthchecks/)
+[**Healthchecks**](/optional/315_healthchecks/)
 
-[**Security Groups for Pods**](/Optional/320_sg-per-pod/)
+[**Security Groups for Pods**](/optional/320_sg-per-pod/)
 
-[**Resource Management**](/Optional/330_resource_management/)
+[**Resource Management**](/ptional/330_resource_management/)
 
-[**CI/CD with CodePipeline**](/Optional/340_codepipeline/)
+[**CI/CD with CodePipeline**](/optional/340_codepipeline/)
 
-[**Logging**](/Optional/350_logging/)
+[**Logging**](/optional/350_logging/)
 
-[**Monitoring**](/Optional/360_Monitoring/)
+[**Monitoring**](/optional/360_Monitoring/)
 
-[**Execute EKS Upgrades**](/Optional/390_eks_upgrades/)
+[**Execute EKS Upgrades**](/optional/390_eks_upgrades/)
 
 
