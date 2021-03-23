@@ -16,13 +16,13 @@ Execute these labs depending on time availability
 
 [Security Groups for Pods](/optional/320_sg-per-pod/)
 
-[Resource Management](/ptional/330_resource_management/)
+[Resource Management](/optional/330_resource_management/)
 
 [CI/CD with CodePipeline](/optional/340_codepipeline/)
 
 [Logging](/optional/350_logging/)
 
-[Monitoring](/optional/360_Monitoring/)
+[Monitoring](/optional/360_monitoring/)
 
 [Execute EKS Upgrades](/optional/390_eks_upgrades/)
 
