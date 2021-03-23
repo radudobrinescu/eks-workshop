@@ -1,5 +1,5 @@
 ---
-title: "Exposing a Service"
+title: "8. Exposing a Service"
 chapter: true
 weight: 130
 #pre: '<i class="fa fa-film" aria-hidden="true"></i> '

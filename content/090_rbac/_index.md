@@ -1,5 +1,5 @@
 ---
-title: "Intro to RBAC"
+title: "7. Intro to RBAC"
 chapter: true
 weight: 90
 #pre: '<i class="fa fa-film" aria-hidden="true"></i> '

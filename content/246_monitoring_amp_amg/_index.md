@@ -1,5 +1,5 @@
 ---
-title: "Monitoring using Amazon Managed Service for Prometheus / Grafana"
+title: "11. Monitoring using Amazon Managed Service for Prometheus / Grafana"
 date: 2018-10-14T09:27:46-04:00
 weight: 246
 chapter: true

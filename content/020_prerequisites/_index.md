@@ -1,5 +1,5 @@
 ---
-title: "Start the workshop..."
+title: "1. Start the workshop..."
 pre: "<b>   </b>"
 chapter: true
 weight: 20

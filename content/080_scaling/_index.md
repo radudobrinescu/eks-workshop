@@ -1,5 +1,5 @@
 ---
-title: "Autoscaling our Applications and Clusters"
+title: "6. Autoscaling our Applications and Clusters"
 chapter: true
 weight: 80
 #pre: '<i class="fa fa-film" aria-hidden="true"></i> '
