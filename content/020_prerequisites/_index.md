@@ -4,7 +4,7 @@ pre: "<b>   </b>"
 chapter: true
 weight: 20
 #pre: '<i class="fa fa-film" aria-hidden="true"></i> '
-tags:
+#tags:
   - beginner
   - kubeflow
   - appmesh
