@@ -4,14 +4,14 @@ date: 2018-10-14T09:27:46-04:00
 weight: 246
 chapter: true
 draft: false
-tags:
-  - intermediate
-  - operations
-  - monitoring
-  - AMP
-  - AMG
-  - Amazon Managed Service for Prometheus
-  - Amazon Managed Service for Grafana
+#tags:
+#  - intermediate
+#  - operations
+#  - monitoring
+#  - AMP
+#  - AMG
+# - Amazon Managed Service for Prometheus
+#  - Amazon Managed Service for Grafana
 
 ---
 # Monitoring using Amazon Managed Service for Prometheus & Grafana

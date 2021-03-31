@@ -3,9 +3,9 @@ title: "8. Exposing a Service"
 chapter: true
 weight: 130
 #pre: '<i class="fa fa-film" aria-hidden="true"></i> '
-tags:
-  - beginner
-  - CON203
+#tags:
+#  - beginner
+#  - CON203
 ---
 
 

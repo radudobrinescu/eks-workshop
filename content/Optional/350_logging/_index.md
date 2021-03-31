@@ -2,11 +2,11 @@
 title: "Logging with Elasticsearch, Fluent Bit, and Kibana (EFK)"
 chapter: true
 weight: 350
-tags:
-  - intermediate
-  - operations
-  - logging
-  - CON206
+#tags:
+#  - intermediate
+#  - operations
+#  - logging
+# - CON206
 ---
 
 # Implement Logging with EFK

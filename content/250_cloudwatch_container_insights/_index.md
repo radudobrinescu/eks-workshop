@@ -2,11 +2,11 @@
 title: "12. EKS CloudWatch Container Insights"
 chapter: true
 weight: 250
-tags:
-  - intermediate
-  - operations
-  - monitoring
-  - CON206
+#tags:
+#  - intermediate
+#  - operations
+#  - monitoring
+#  - CON206
 ---
 # EKS CloudWatch Container Insights
 

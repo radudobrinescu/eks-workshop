@@ -3,14 +3,14 @@ title: "2. Launch using eksctl"
 chapter: true
 weight: 30
 #pre: '<i class="fa fa-film" aria-hidden="true"></i> '
-tags:
-  - beginner
-  - kubeflow
-  - appmesh
-  - CON203
-  - CON205
-  - CON206
-  - OPN401
+#tags:
+#  - beginner
+#  - kubeflow
+#  - appmesh
+#  - CON203
+#  - CON205
+#  - CON206
+#  - OPN401
 ---
 
 # Launch using [eksctl](https://eksctl.io/)

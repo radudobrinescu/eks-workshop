@@ -3,9 +3,9 @@ title: "Health Checks"
 chapter: true
 weight: 315
 #pre: '<i class="fa fa-film" aria-hidden="true"></i> '
-tags:
-  - beginner
-  - CON206
+#tags:
+#  - beginner
+#  - CON206
 ---
 
 # Health Checks

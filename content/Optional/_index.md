@@ -2,8 +2,8 @@
 title: "Optional Labs"
 chapter: true
 weight: 300
-tags:
-  - Optional
+#tags:
+#  - Optional
 ---
 
 # Optional Labs

@@ -4,11 +4,11 @@ date: 2018-10-14T09:27:46-04:00
 weight: 360
 chapter: true
 draft: false
-tags:
-  - intermediate
-  - operations
-  - monitoring
-  - CON206
+#tags:
+#  - intermediate
+#  - operations
+#  - monitoring
+#  - CON206
 ---
 
 # Monitoring using Prometheus and Grafana

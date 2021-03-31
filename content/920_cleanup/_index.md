@@ -2,8 +2,8 @@
 title: "Cleanup"
 chapter: true
 weight: 920
-tags:
-  - beginner
+#tags:
+#  - beginner
 ---
 
 # Cleanup

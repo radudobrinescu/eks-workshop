@@ -3,9 +3,9 @@ title: "9. Deploying Microservices to EKS Fargate"
 chapter: true
 weight: 180
 #pre: '<i class="fa fa-film" aria-hidden="true"></i> '
-tags:
-  - beginner
-  - CON206
+#tags:
+#  - beginner
+#  - CON206
 ---
 
 # Deploying Microservices to EKS Fargate
