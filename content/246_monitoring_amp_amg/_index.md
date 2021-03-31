@@ -14,6 +14,8 @@ tags:
   - Amazon Managed Service for Grafana
 
 ---
+# Monitoring using Amazon Managed Service for Prometheus & Grafana
+
 ### Introduction
 #### Amazon Managed Service for Prometheus (AMP) 
 Amazon Managed Service for Prometheus is a monitoring service for metrics compatible with the open source Prometheus project, making it easier for you to securely monitor container environments. AMP is a solution for monitoring containers based on the popular Cloud Native Computing Foundation (CNCF) Prometheus project. AMP is powered by Cortex, an open source CNCF project that adds horizontal scalability to ingest, store, query, and alert on Prometheus metrics. AMP reduces the heavy lifting required to get started with monitoring applications across Amazon Elastic Kubernetes Service and Amazon Elastic Container Service, as well as self-managed Kubernetes clusters. AMP automatically scales as your monitoring needs grow. It offers highly available, multi-Availability Zone deployments, and integrates AWS security and compliance capabilities. AMP offers native support for the PromQL query language as well as over 150+ Prometheus exporters maintained by the open source community.

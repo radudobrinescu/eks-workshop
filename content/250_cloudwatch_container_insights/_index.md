@@ -8,6 +8,7 @@ tags:
   - monitoring
   - CON206
 ---
+# EKS CloudWatch Container Insights
 
 In this chapter we will learn and leverage the new CloudWatch Container Insights to see how you can use native CloudWatch features to monitor your EKS Cluster performance.
 
