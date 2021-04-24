@@ -7,7 +7,7 @@ draft: false
 
 #### Is **helm** installed?
 
-We will use **helm** to install Prometheus & Grafana monitoring tools for this chapter. Please review  [installing helm chapter](/beginner/060_helm/helm_intro/install/index.html) for instructions if you don't have it installed.
+We will use **helm** to install Prometheus & Grafana monitoring tools for this chapter. Please review  [installing helm chapter](/060_helm/helm_intro/install/index.html) for instructions if you don't have it installed.
 
 ```bash
 # add prometheus Helm repo
