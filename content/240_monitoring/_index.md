@@ -6,7 +6,7 @@ chapter: true
 draft: false
 ---
 
-# Monitoring using Prometheus and Grafana
+#11. Monitoring using Prometheus and Grafana
 
 In this Chapter, we will deploy Prometheus and Grafana to monitor Kubernetes cluster
 
