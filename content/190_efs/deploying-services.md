@@ -8,8 +8,8 @@ draft: false
 Next, launch a set of two pods with the following commands.
 ```
 cd ~/environment/efs
-wget https://eksworkshop.com/190_efs/efs.files/efs-writer.yaml
-wget https://eksworkshop.com/190_efs/efs.files/efs-reader.yaml
+wget https://eksworkshop.com/beginner/190_efs/efs.files/efs-writer.yaml
+wget https://eksworkshop.com/beginner/190_efs/efs.files/efs-reader.yaml
 kubectl apply -f efs-writer.yaml
 kubectl apply -f efs-reader.yaml
 ```
